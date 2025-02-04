@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "joGOchagQf37B19fkkzsFNjZaglA7xMWSdsRjdWNxvI=",
+  "Source": "jwt JSON Web Tokens (JWT)",
+  "BasePath": "_content/jwt JSON Web Tokens (JWT)",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
